@@ -1,2 +1,1 @@
-# DeepLearning
-# DeepLearning
+# Repo for Deep Learning/Computer Vision Seminar 2018
